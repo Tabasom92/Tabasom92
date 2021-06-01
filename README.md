@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Tabasom92
+- 👀 I’m interested in programming with python
+- 🌱 I’m currently learning many libraries 
+- 💞️ I’m looking to collaborate on programs to have more experience 
+- 📫 How to reach me : tabasom.moradi1992@gmail.com
